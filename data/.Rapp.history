@@ -1,0 +1,3 @@
+load("/Users/adhiks04/Box Sync/PAPERS/Submitted/BayesianIV_JASApaper/JASA_REVISION/BayesIV_FINAL_Revised/data/Example.RData")
+ls()
+q('no')

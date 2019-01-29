@@ -1,0 +1,15 @@
+Package: BayesIV
+Type: Package
+Title: A package to fit Bayesian Instrumental Variable model with latent factors
+Version: 0.2
+Date: 2019-01-30
+Author: Samrachana Adhikari, Sherri Rose, Sharon-Lise Normand
+Maintainer: Samrachana Adhikari <samrachana.adhikari@nyulangone.org>
+Description: A package to fit Bayesian Instrumental Variable model with latent factors 
+    and summarize posterior draws of treatment effects.
+License: GPL (>= 2)
+Imports:
+    Rcpp (>= 0.12.3), DPpackage, msm
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
+LazyData: true
