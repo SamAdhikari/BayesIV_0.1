@@ -7,9 +7,18 @@ Percutaneous coronary interventions (PCIs) are nonsurgical procedures to open bl
 https://arxiv.org/abs/1804.08055
 
 
-**Instruction on how to install the package in R:**
+**Instructions to install the R package:**
 
-install.packages('devtools')
-library(devtools)
-install_github('SamAdhikari/BayesIV_0.1')
+1. Directly from github repository
+
+- install.packages('devtools')
+- library(devtools)
+- install_github('SamAdhikari/BayesIV_0.1')
+
+2.  By downloading the folder from GitHub
+
+- download (fork) the repository in a local directory
+- build .tar.zip file of  the R package using "R CMD build BayesIV"  
+- install in R from a local  repository
+
 
